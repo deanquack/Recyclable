@@ -1,0 +1,6 @@
+Name, Material, Weight, Recycle Amount
+Fanta, Plastic, 0.58,0.725
+Arrowhead, Plastic, 0.58,0.6032
+Green Giant, Aluminium, 1.6,1.4880000000000002
+Bumble Bee, Aluminium, 1.6,0.6080000000000001
+Total,,,=SUM(D2..D5)
